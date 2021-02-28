@@ -1,7 +1,7 @@
 # Android_Login
 This is an Android Login App using Firebase 
 
-I used Android Studio IDE 
+I used Android Studio IDE and Java
 
 ## Installation
 Create a Firebase project, register your app with firebase, for more info check this link : https://firebase.google.com/docs/android/setup 
